@@ -1,0 +1,243 @@
+04/20/2018 05:20:39 PM - WebDriverFactory - INFO: Set driver for browser "chrome". Headless is None
+04/20/2018 05:20:42 PM - DescriptionPage - INFO: Open page with url https://market.qa.homecred.it/item/yamaha-c40
+04/20/2018 05:20:42 PM - DescriptionPage - INFO: Element Found with locator: //*[contains(@class, 'offer-item-btn__deskButton___')] locator_type xpath
+04/20/2018 05:20:43 PM - DescriptionPage - INFO: Clicked on element with locator: //*[contains(@class, 'offer-item-btn__deskButton___')] locator_type: xpath
+04/20/2018 05:20:43 PM - Header - INFO: Element Found with locator: //*[contains(@class, 'authorization__signin___')] locator_type xpath
+04/20/2018 05:20:43 PM - Header - INFO: Clicked on element with locator: //*[contains(@class, 'authorization__signin___')] locator_type: xpath
+04/20/2018 05:20:43 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "choose__marketplace___")] locator_type xpath
+04/20/2018 05:20:43 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[contains(@class, "choose__marketplace___")] locator_type: xpath
+04/20/2018 05:20:43 PM - SeleniumDriver - INFO: Element Found with locator: authorization.mobilephone locator_type id
+04/20/2018 05:20:43 PM - SeleniumDriver - INFO: Send data on element with locator: authorization.mobilephone locator_type: id
+04/20/2018 05:20:43 PM - SeleniumDriver - INFO: Element Found with locator: authorization.birthday locator_type id
+04/20/2018 05:20:43 PM - SeleniumDriver - INFO: Send data on element with locator: authorization.birthday locator_type: id
+04/20/2018 05:20:43 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "authorization__buttonWrp___")] locator_type xpath
+04/20/2018 05:20:43 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[contains(@class, "authorization__buttonWrp___")] locator_type: xpath
+04/20/2018 05:20:43 PM - SeleniumDriver - INFO: Waiting for maximum :: 60 :: seconds for element to be clickable
+04/20/2018 05:20:51 PM - SeleniumDriver - INFO: Element appeared on the web page
+04/20/2018 05:20:51 PM - SeleniumDriver - INFO: Element Found with locator: authorization.sms locator_type id
+04/20/2018 05:20:51 PM - SeleniumDriver - INFO: Send data on element with locator: authorization.sms locator_type: id
+04/20/2018 05:20:51 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, 'authorizaton-step__button___')] locator_type xpath
+04/20/2018 05:20:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[contains(@class, 'authorizaton-step__button___')] locator_type: xpath
+04/20/2018 05:20:51 PM - DeliveryPickup - INFO: Element Found with locator: //*[contains(@class, "delivery__inputsWrapper___")]//*[contains(@id, "city")] locator_type xpath
+04/20/2018 05:20:51 PM - DeliveryPickup - INFO: Cannot send data on the element with locator: //*[contains(@class, "delivery__inputsWrapper___")]//*[contains(@id, "city")] locator_type: xpath
+04/20/2018 05:20:51 PM - DeliveryPickup - INFO: Element Found with locator: //*[contains(@class, "delivery__inputsWrapper___")]//*[contains(@id, "street")] locator_type xpath
+04/20/2018 05:20:51 PM - DeliveryPickup - INFO: Send data on element with locator: //*[contains(@class, "delivery__inputsWrapper___")]//*[contains(@id, "street")] locator_type: xpath
+04/20/2018 05:20:51 PM - DeliveryPickup - INFO: Element Found with locator: //*[contains(@class, "delivery__inputsWrapper___")]//*[contains(@id, "house")] locator_type xpath
+04/20/2018 05:20:51 PM - DeliveryPickup - INFO: Send data on element with locator: //*[contains(@class, "delivery__inputsWrapper___")]//*[contains(@id, "house")] locator_type: xpath
+04/20/2018 05:20:51 PM - DeliveryPickup - INFO: Element Found with locator: //*[contains(@class, "delivery__inputsWrapper___")]//*[contains(@id, "apartment")] locator_type xpath
+04/20/2018 05:20:51 PM - DeliveryPickup - INFO: Cannot send data on the element with locator: //*[contains(@class, "delivery__inputsWrapper___")]//*[contains(@id, "apartment")] locator_type: xpath
+04/20/2018 05:20:51 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "lastName")] locator_type xpath
+04/20/2018 05:20:52 PM - PersonalData - INFO: Cleared on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "lastName")] locator_type: xpath
+04/20/2018 05:20:52 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "name")] locator_type xpath
+04/20/2018 05:20:52 PM - PersonalData - INFO: Cleared on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "name")] locator_type: xpath
+04/20/2018 05:20:52 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "patronymic")] locator_type xpath
+04/20/2018 05:20:52 PM - PersonalData - INFO: Cleared on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "patronymic")] locator_type: xpath
+04/20/2018 05:20:52 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "email")] locator_type xpath
+04/20/2018 05:20:52 PM - PersonalData - INFO: Cleared on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "email")] locator_type: xpath
+04/20/2018 05:20:52 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "series")] locator_type xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Cleared on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "series")] locator_type: xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "monthlyIncome")] locator_type xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Cleared on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "monthlyIncome")] locator_type: xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "lastName")] locator_type xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Send data on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "lastName")] locator_type: xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "name")] locator_type xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Send data on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "name")] locator_type: xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "patronymic")] locator_type xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Send data on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "patronymic")] locator_type: xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "birthday")] locator_type xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Cannot send data on the element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "birthday")] locator_type: xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "mobile")] locator_type xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Cannot send data on the element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "mobile")] locator_type: xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "email")] locator_type xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Send data on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "email")] locator_type: xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "series")] locator_type xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Send data on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "series")] locator_type: xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "monthlyIncome")] locator_type xpath
+04/20/2018 05:20:53 PM - PersonalData - INFO: Send data on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "monthlyIncome")] locator_type: xpath
+04/20/2018 05:20:53 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, 'additional-data__enterData___')][text()='Заполнить данные'] locator_type xpath
+04/20/2018 05:20:53 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[contains(@class, 'additional-data__enterData___')][text()='Заполнить данные'] locator_type: xpath
+04/20/2018 05:20:54 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportDate")] locator_type xpath
+04/20/2018 05:20:54 PM - SeleniumDriver - INFO: Cleared on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportDate")] locator_type: xpath
+04/20/2018 05:20:54 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "code")] locator_type xpath
+04/20/2018 05:20:54 PM - SeleniumDriver - INFO: Cleared on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "code")] locator_type: xpath
+04/20/2018 05:20:54 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportIssuedBy")] locator_type xpath
+04/20/2018 05:20:54 PM - SeleniumDriver - INFO: Cleared on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportIssuedBy")] locator_type: xpath
+04/20/2018 05:20:54 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "birthplace")] locator_type xpath
+04/20/2018 05:20:54 PM - SeleniumDriver - INFO: Cleared on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "birthplace")] locator_type: xpath
+04/20/2018 05:20:54 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportDate")] locator_type xpath
+04/20/2018 05:20:54 PM - SeleniumDriver - INFO: Send data on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportDate")] locator_type: xpath
+04/20/2018 05:20:54 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "code")] locator_type xpath
+04/20/2018 05:20:54 PM - SeleniumDriver - INFO: Send data on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "code")] locator_type: xpath
+04/20/2018 05:20:54 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportIssuedBy")] locator_type xpath
+04/20/2018 05:20:54 PM - SeleniumDriver - INFO: Send data on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportIssuedBy")] locator_type: xpath
+04/20/2018 05:20:54 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "birthplace")] locator_type xpath
+04/20/2018 05:20:54 PM - SeleniumDriver - INFO: Send data on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "birthplace")] locator_type: xpath
+04/20/2018 05:20:54 PM - CreditPage - INFO: Element Found with locator: //*[contains(@class, 'total__send___')] locator_type xpath
+04/20/2018 05:20:54 PM - CreditPage - INFO: Clicked on element with locator: //*[contains(@class, 'total__send___')] locator_type: xpath
+04/20/2018 05:20:54 PM - CreditPage - INFO: Element Found with locator: //*[@id='creditProcess.smsCode'] locator_type xpath
+04/20/2018 05:20:54 PM - CreditPage - INFO: Send data on element with locator: //*[@id='creditProcess.smsCode'] locator_type: xpath
+04/20/2018 05:20:54 PM - CreditPage - INFO: Element Found with locator: //*[contains(@class, 'total__send___')] locator_type xpath
+04/20/2018 05:20:54 PM - CreditPage - INFO: Clicked on element with locator: //*[contains(@class, 'total__send___')] locator_type: xpath
+04/20/2018 05:20:56 PM - WebDriverFactory - INFO: Set driver for browser "chrome". Headless is None
+04/20/2018 05:21:00 PM - DescriptionPage - INFO: Open page with url https://market.qa.homecred.it/item/astralux-starlet-i
+04/20/2018 05:21:00 PM - DescriptionPage - INFO: Element Found with locator: //*[contains(@class, 'offer-item-btn__deskButton___')] locator_type xpath
+04/20/2018 05:21:00 PM - DescriptionPage - INFO: Clicked on element with locator: //*[contains(@class, 'offer-item-btn__deskButton___')] locator_type: xpath
+04/20/2018 05:21:00 PM - CreditPage - INFO: Element Found with locator: //*[contains(@class, 'delivery-item__itemWrp___')] locator_type xpath
+04/20/2018 05:21:00 PM - CreditPage - INFO: Clicked on element with locator: //*[contains(@class, 'delivery-item__itemWrp___')] locator_type: xpath
+04/20/2018 05:21:01 PM - CreditPage - INFO: Element Found with locator: //*[contains(@class, 'button__small___')][text()='Выбрать'] locator_type xpath
+04/20/2018 05:21:01 PM - CreditPage - INFO: Clicked on element with locator: //*[contains(@class, 'button__small___')][text()='Выбрать'] locator_type: xpath
+04/20/2018 05:21:01 PM - Header - INFO: Element Found with locator: //*[contains(@class, 'authorization__signin___')] locator_type xpath
+04/20/2018 05:21:01 PM - Header - INFO: Clicked on element with locator: //*[contains(@class, 'authorization__signin___')] locator_type: xpath
+04/20/2018 05:21:01 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "choose__marketplace___")] locator_type xpath
+04/20/2018 05:21:01 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[contains(@class, "choose__marketplace___")] locator_type: xpath
+04/20/2018 05:21:01 PM - SeleniumDriver - INFO: Element Found with locator: authorization.mobilephone locator_type id
+04/20/2018 05:21:02 PM - SeleniumDriver - INFO: Send data on element with locator: authorization.mobilephone locator_type: id
+04/20/2018 05:21:02 PM - SeleniumDriver - INFO: Element Found with locator: authorization.birthday locator_type id
+04/20/2018 05:21:02 PM - SeleniumDriver - INFO: Send data on element with locator: authorization.birthday locator_type: id
+04/20/2018 05:21:02 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "authorization__buttonWrp___")] locator_type xpath
+04/20/2018 05:21:02 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[contains(@class, "authorization__buttonWrp___")] locator_type: xpath
+04/20/2018 05:21:02 PM - SeleniumDriver - INFO: Waiting for maximum :: 60 :: seconds for element to be clickable
+04/20/2018 05:21:03 PM - SeleniumDriver - INFO: Element appeared on the web page
+04/20/2018 05:21:03 PM - SeleniumDriver - INFO: Element Found with locator: authorization.sms locator_type id
+04/20/2018 05:21:03 PM - SeleniumDriver - INFO: Send data on element with locator: authorization.sms locator_type: id
+04/20/2018 05:21:03 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, 'authorizaton-step__button___')] locator_type xpath
+04/20/2018 05:21:03 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[contains(@class, 'authorizaton-step__button___')] locator_type: xpath
+04/20/2018 05:21:04 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "personal-account-link__avatar___")] locator_type xpath
+04/20/2018 05:21:04 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "lastName")] locator_type xpath
+04/20/2018 05:21:04 PM - PersonalData - INFO: Cleared on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "lastName")] locator_type: xpath
+04/20/2018 05:21:04 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "name")] locator_type xpath
+04/20/2018 05:21:04 PM - PersonalData - INFO: Cleared on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "name")] locator_type: xpath
+04/20/2018 05:21:04 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "patronymic")] locator_type xpath
+04/20/2018 05:21:05 PM - PersonalData - INFO: Cleared on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "patronymic")] locator_type: xpath
+04/20/2018 05:21:05 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "email")] locator_type xpath
+04/20/2018 05:21:05 PM - PersonalData - INFO: Cleared on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "email")] locator_type: xpath
+04/20/2018 05:21:05 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "series")] locator_type xpath
+04/20/2018 05:21:06 PM - PersonalData - INFO: Cleared on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "series")] locator_type: xpath
+04/20/2018 05:21:06 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "monthlyIncome")] locator_type xpath
+04/20/2018 05:21:06 PM - PersonalData - INFO: Cleared on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "monthlyIncome")] locator_type: xpath
+04/20/2018 05:21:06 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "lastName")] locator_type xpath
+04/20/2018 05:21:06 PM - PersonalData - INFO: Send data on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "lastName")] locator_type: xpath
+04/20/2018 05:21:06 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "name")] locator_type xpath
+04/20/2018 05:21:06 PM - PersonalData - INFO: Send data on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "name")] locator_type: xpath
+04/20/2018 05:21:06 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "patronymic")] locator_type xpath
+04/20/2018 05:21:07 PM - PersonalData - INFO: Send data on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "patronymic")] locator_type: xpath
+04/20/2018 05:21:07 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "birthday")] locator_type xpath
+04/20/2018 05:21:07 PM - PersonalData - INFO: Cannot send data on the element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "birthday")] locator_type: xpath
+04/20/2018 05:21:07 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "mobile")] locator_type xpath
+04/20/2018 05:21:07 PM - PersonalData - INFO: Cannot send data on the element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "mobile")] locator_type: xpath
+04/20/2018 05:21:07 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "email")] locator_type xpath
+04/20/2018 05:21:07 PM - PersonalData - INFO: Send data on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "email")] locator_type: xpath
+04/20/2018 05:21:07 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "series")] locator_type xpath
+04/20/2018 05:21:07 PM - PersonalData - INFO: Send data on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "series")] locator_type: xpath
+04/20/2018 05:21:07 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "monthlyIncome")] locator_type xpath
+04/20/2018 05:21:08 PM - PersonalData - INFO: Send data on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "monthlyIncome")] locator_type: xpath
+04/20/2018 05:21:08 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, 'additional-data__enterData___')][text()='Заполнить данные'] locator_type xpath
+04/20/2018 05:21:08 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[contains(@class, 'additional-data__enterData___')][text()='Заполнить данные'] locator_type: xpath
+04/20/2018 05:21:08 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportDate")] locator_type xpath
+04/20/2018 05:21:08 PM - SeleniumDriver - INFO: Cleared on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportDate")] locator_type: xpath
+04/20/2018 05:21:08 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "code")] locator_type xpath
+04/20/2018 05:21:08 PM - SeleniumDriver - INFO: Cleared on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "code")] locator_type: xpath
+04/20/2018 05:21:08 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportIssuedBy")] locator_type xpath
+04/20/2018 05:21:08 PM - SeleniumDriver - INFO: Cleared on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportIssuedBy")] locator_type: xpath
+04/20/2018 05:21:08 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "birthplace")] locator_type xpath
+04/20/2018 05:21:08 PM - SeleniumDriver - INFO: Cleared on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "birthplace")] locator_type: xpath
+04/20/2018 05:21:08 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportDate")] locator_type xpath
+04/20/2018 05:21:08 PM - SeleniumDriver - INFO: Send data on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportDate")] locator_type: xpath
+04/20/2018 05:21:08 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "code")] locator_type xpath
+04/20/2018 05:21:08 PM - SeleniumDriver - INFO: Send data on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "code")] locator_type: xpath
+04/20/2018 05:21:08 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportIssuedBy")] locator_type xpath
+04/20/2018 05:21:09 PM - SeleniumDriver - INFO: Send data on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportIssuedBy")] locator_type: xpath
+04/20/2018 05:21:09 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "birthplace")] locator_type xpath
+04/20/2018 05:21:09 PM - SeleniumDriver - INFO: Send data on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "birthplace")] locator_type: xpath
+04/20/2018 05:21:09 PM - CreditPage - INFO: Element Found with locator: //*[contains(@class, 'total__send___')] locator_type xpath
+04/20/2018 05:21:09 PM - CreditPage - INFO: Clicked on element with locator: //*[contains(@class, 'total__send___')] locator_type: xpath
+04/20/2018 05:21:09 PM - CreditPage - INFO: Element Found with locator: //*[@id='creditProcess.smsCode'] locator_type xpath
+04/20/2018 05:21:09 PM - CreditPage - INFO: Send data on element with locator: //*[@id='creditProcess.smsCode'] locator_type: xpath
+04/20/2018 05:21:09 PM - CreditPage - INFO: Element Found with locator: //*[contains(@class, 'total__send___')] locator_type xpath
+04/20/2018 05:21:09 PM - CreditPage - INFO: Clicked on element with locator: //*[contains(@class, 'total__send___')] locator_type: xpath
+04/20/2018 05:21:11 PM - WebDriverFactory - INFO: Set driver for browser "chrome". Headless is None
+04/20/2018 05:21:14 PM - DescriptionPage - INFO: Open page with url https://market.qa.homecred.it/item/yamaha-c40
+04/20/2018 05:21:14 PM - DescriptionPage - INFO: Element Found with locator: //*[contains(@class, 'offer-item-btn__deskButton___')] locator_type xpath
+04/20/2018 05:21:14 PM - DescriptionPage - INFO: Clicked on element with locator: //*[contains(@class, 'offer-item-btn__deskButton___')] locator_type: xpath
+04/20/2018 05:21:14 PM - Header - INFO: Element Found with locator: //*[contains(@class, 'authorization__signin___')] locator_type xpath
+04/20/2018 05:21:15 PM - Header - INFO: Clicked on element with locator: //*[contains(@class, 'authorization__signin___')] locator_type: xpath
+04/20/2018 05:21:15 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "choose__marketplace___")] locator_type xpath
+04/20/2018 05:21:15 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[contains(@class, "choose__marketplace___")] locator_type: xpath
+04/20/2018 05:21:15 PM - SeleniumDriver - INFO: Element Found with locator: authorization.mobilephone locator_type id
+04/20/2018 05:21:15 PM - SeleniumDriver - INFO: Send data on element with locator: authorization.mobilephone locator_type: id
+04/20/2018 05:21:15 PM - SeleniumDriver - INFO: Element Found with locator: authorization.birthday locator_type id
+04/20/2018 05:21:15 PM - SeleniumDriver - INFO: Send data on element with locator: authorization.birthday locator_type: id
+04/20/2018 05:21:15 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "authorization__buttonWrp___")] locator_type xpath
+04/20/2018 05:21:15 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[contains(@class, "authorization__buttonWrp___")] locator_type: xpath
+04/20/2018 05:21:15 PM - SeleniumDriver - INFO: Waiting for maximum :: 60 :: seconds for element to be clickable
+04/20/2018 05:21:16 PM - SeleniumDriver - INFO: Element appeared on the web page
+04/20/2018 05:21:16 PM - SeleniumDriver - INFO: Element Found with locator: authorization.sms locator_type id
+04/20/2018 05:21:17 PM - SeleniumDriver - INFO: Send data on element with locator: authorization.sms locator_type: id
+04/20/2018 05:21:17 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, 'authorizaton-step__button___')] locator_type xpath
+04/20/2018 05:21:17 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[contains(@class, 'authorizaton-step__button___')] locator_type: xpath
+04/20/2018 05:21:17 PM - DeliveryPickup - INFO: Element Found with locator: //*[contains(@class, "delivery__inputsWrapper___")]//*[contains(@id, "city")] locator_type xpath
+04/20/2018 05:21:17 PM - DeliveryPickup - INFO: Cannot send data on the element with locator: //*[contains(@class, "delivery__inputsWrapper___")]//*[contains(@id, "city")] locator_type: xpath
+04/20/2018 05:21:17 PM - DeliveryPickup - INFO: Element Found with locator: //*[contains(@class, "delivery__inputsWrapper___")]//*[contains(@id, "street")] locator_type xpath
+04/20/2018 05:21:17 PM - DeliveryPickup - INFO: Send data on element with locator: //*[contains(@class, "delivery__inputsWrapper___")]//*[contains(@id, "street")] locator_type: xpath
+04/20/2018 05:21:17 PM - DeliveryPickup - INFO: Element Found with locator: //*[contains(@class, "delivery__inputsWrapper___")]//*[contains(@id, "house")] locator_type xpath
+04/20/2018 05:21:17 PM - DeliveryPickup - INFO: Send data on element with locator: //*[contains(@class, "delivery__inputsWrapper___")]//*[contains(@id, "house")] locator_type: xpath
+04/20/2018 05:21:17 PM - DeliveryPickup - INFO: Element Found with locator: //*[contains(@class, "delivery__inputsWrapper___")]//*[contains(@id, "apartment")] locator_type xpath
+04/20/2018 05:21:17 PM - DeliveryPickup - INFO: Cannot send data on the element with locator: //*[contains(@class, "delivery__inputsWrapper___")]//*[contains(@id, "apartment")] locator_type: xpath
+04/20/2018 05:21:17 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "lastName")] locator_type xpath
+04/20/2018 05:21:17 PM - PersonalData - INFO: Cleared on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "lastName")] locator_type: xpath
+04/20/2018 05:21:17 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "name")] locator_type xpath
+04/20/2018 05:21:18 PM - PersonalData - INFO: Cleared on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "name")] locator_type: xpath
+04/20/2018 05:21:18 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "patronymic")] locator_type xpath
+04/20/2018 05:21:18 PM - PersonalData - INFO: Cleared on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "patronymic")] locator_type: xpath
+04/20/2018 05:21:18 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "email")] locator_type xpath
+04/20/2018 05:21:18 PM - PersonalData - INFO: Cleared on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "email")] locator_type: xpath
+04/20/2018 05:21:18 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "series")] locator_type xpath
+04/20/2018 05:21:18 PM - PersonalData - INFO: Cleared on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "series")] locator_type: xpath
+04/20/2018 05:21:18 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "monthlyIncome")] locator_type xpath
+04/20/2018 05:21:18 PM - PersonalData - INFO: Cleared on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "monthlyIncome")] locator_type: xpath
+04/20/2018 05:21:18 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "lastName")] locator_type xpath
+04/20/2018 05:21:18 PM - PersonalData - INFO: Send data on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "lastName")] locator_type: xpath
+04/20/2018 05:21:18 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "name")] locator_type xpath
+04/20/2018 05:21:19 PM - PersonalData - INFO: Send data on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "name")] locator_type: xpath
+04/20/2018 05:21:19 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "patronymic")] locator_type xpath
+04/20/2018 05:21:19 PM - PersonalData - INFO: Send data on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "patronymic")] locator_type: xpath
+04/20/2018 05:21:19 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "birthday")] locator_type xpath
+04/20/2018 05:21:19 PM - PersonalData - INFO: Cannot send data on the element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "birthday")] locator_type: xpath
+04/20/2018 05:21:19 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "mobile")] locator_type xpath
+04/20/2018 05:21:19 PM - PersonalData - INFO: Cannot send data on the element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "mobile")] locator_type: xpath
+04/20/2018 05:21:19 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "email")] locator_type xpath
+04/20/2018 05:21:19 PM - PersonalData - INFO: Send data on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "email")] locator_type: xpath
+04/20/2018 05:21:19 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "series")] locator_type xpath
+04/20/2018 05:21:19 PM - PersonalData - INFO: Send data on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "series")] locator_type: xpath
+04/20/2018 05:21:19 PM - PersonalData - INFO: Element Found with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "monthlyIncome")] locator_type xpath
+04/20/2018 05:21:19 PM - PersonalData - INFO: Send data on element with locator: //*[contains(@class, "personal-data__personalData___")]//*[contains(@name, "monthlyIncome")] locator_type: xpath
+04/20/2018 05:21:19 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, 'additional-data__enterData___')][text()='Заполнить данные'] locator_type xpath
+04/20/2018 05:21:19 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[contains(@class, 'additional-data__enterData___')][text()='Заполнить данные'] locator_type: xpath
+04/20/2018 05:21:19 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportDate")] locator_type xpath
+04/20/2018 05:21:19 PM - SeleniumDriver - INFO: Cleared on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportDate")] locator_type: xpath
+04/20/2018 05:21:19 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "code")] locator_type xpath
+04/20/2018 05:21:19 PM - SeleniumDriver - INFO: Cleared on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "code")] locator_type: xpath
+04/20/2018 05:21:19 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportIssuedBy")] locator_type xpath
+04/20/2018 05:21:19 PM - SeleniumDriver - INFO: Cleared on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportIssuedBy")] locator_type: xpath
+04/20/2018 05:21:19 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "birthplace")] locator_type xpath
+04/20/2018 05:21:19 PM - SeleniumDriver - INFO: Cleared on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "birthplace")] locator_type: xpath
+04/20/2018 05:21:19 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportDate")] locator_type xpath
+04/20/2018 05:21:19 PM - SeleniumDriver - INFO: Send data on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportDate")] locator_type: xpath
+04/20/2018 05:21:19 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "code")] locator_type xpath
+04/20/2018 05:21:20 PM - SeleniumDriver - INFO: Send data on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "code")] locator_type: xpath
+04/20/2018 05:21:20 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportIssuedBy")] locator_type xpath
+04/20/2018 05:21:20 PM - SeleniumDriver - INFO: Send data on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "passportIssuedBy")] locator_type: xpath
+04/20/2018 05:21:20 PM - SeleniumDriver - INFO: Element Found with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "birthplace")] locator_type xpath
+04/20/2018 05:21:20 PM - SeleniumDriver - INFO: Send data on element with locator: //*[contains(@class, "additional-data__additionalData___")]//*[contains(@id, "birthplace")] locator_type: xpath
+04/20/2018 05:21:20 PM - CreditPage - INFO: Element Found with locator: //*[contains(@class, 'total__send___')] locator_type xpath
+04/20/2018 05:21:20 PM - CreditPage - INFO: Clicked on element with locator: //*[contains(@class, 'total__send___')] locator_type: xpath
+04/20/2018 05:21:20 PM - CreditPage - INFO: Element Found with locator: //*[@id='creditProcess.smsCode'] locator_type xpath
+04/20/2018 05:21:20 PM - CreditPage - INFO: Send data on element with locator: //*[@id='creditProcess.smsCode'] locator_type: xpath
+04/20/2018 05:21:20 PM - CreditPage - INFO: Element Found with locator: //*[contains(@class, 'total__send___')] locator_type xpath
+04/20/2018 05:21:20 PM - CreditPage - INFO: Clicked on element with locator: //*[contains(@class, 'total__send___')] locator_type: xpath
+04/20/2018 05:21:20 PM - CreditPage - INFO: Element Found with locator: //*[contains(@class, 'error__error___')][text()='Неправильный смс код'] locator_type xpath
+04/20/2018 05:21:20 PM - CreditPage - INFO: Getting text on element :: 
+04/20/2018 05:21:20 PM - CreditPage - INFO: The text is :: 'Неправильный смс код'
+04/20/2018 05:21:20 PM - MarkStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Sms is invalided
+04/20/2018 05:21:20 PM - MarkStatus - INFO: test_invalid_sms ### TEST SUCCESSFUL
+04/20/2018 05:21:20 PM - MarkStatus - INFO: --------------------------------------------------------------------------------
