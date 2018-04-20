@@ -1,0 +1,12 @@
+*.py[co]
+.idea/*
+env/*
+venv/*
+images/data/*
+*\.mo
+*.DS_Store
+*.png
+*.cache/
+*automation.log
+*geckodriver.log
+*.sh
